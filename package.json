@@ -1,0 +1,24 @@
+{
+  "name": "kopy",
+  "version": "1.0.0",
+  "description": "post copy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mertcanaltin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertcanaltin/kopy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mertcanaltin/kopy/issues"
+  },
+  "homepage": "https://github.com/mertcanaltin/kopy#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.1.0"
+  }
+}
