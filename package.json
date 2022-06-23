@@ -19,6 +19,6 @@
   "homepage": "https://github.com/mertcanaltin/kopy#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "jsdom": "^16.1.0"
+    "jsdom": "^16.5.0"
   }
 }
